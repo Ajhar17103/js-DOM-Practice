@@ -1,0 +1,48 @@
+body{
+    
+    border: 2px solid red;
+    padding: 50px;
+    text-align: center;
+}
+ .myImg{
+     width: 400px;
+     height: 400px;
+ }
+ #container{
+     width: 400px;
+     height: 400px;
+     background-color: darkgreen;
+     position: relative;
+ }
+ #animate{
+     width: 50px;
+     height: 50px;
+     background-color: red;
+     position: absolute;
+ }
+ .ctn{
+     background-color:orangered;
+     height:200px
+ }
+ #head{
+     padding-top: 80px;
+     font-size: larger;
+ }
+ #containers{
+     background-color: orange;
+     height: 150px;
+     text-align: center;
+     
+ }
+ #showdate{
+     margin-top: 50px;
+ }
+ #form{
+     padding: 15px;
+ }
+ input{
+     margin-top: 5px;
+ }
+ #div05{
+     text-align: center;
+ }
